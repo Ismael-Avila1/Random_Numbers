@@ -1,7 +1,7 @@
 # Random_Numbers
 Algoritmo en C++ que genera números aleatorios.
 
-Hace uso de las librerias <random>, <chrono> y <functional> para la generación de los número aleatorios.
+Hace uso de las librerias random, chrono y functional para la generación de los número aleatorios.
 
 El resultado son verdaderos números aleatorios, ya que otros algoritmos para generar números aleatorios, son los mismos en cada corrida del programa.
 
